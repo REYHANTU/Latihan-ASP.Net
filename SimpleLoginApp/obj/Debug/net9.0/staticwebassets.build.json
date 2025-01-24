@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+x4R7UiXCoOPxu6u0ZdSoBykKML4WWz4dB2MrNaEbo8=",
+  "Hash": "OGZo6sDnyuIR0yZAVJv35WvHNEweaQMjh/X+J2MtxgM=",
   "Source": "SimpleLoginApp",
   "BasePath": "_content/SimpleLoginApp",
   "Mode": "Default",
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "D:\\Latihan C#.Net\\SimpleLoginApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-8jq95cel0q.gz",
+      "Identity": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-2uhms3hvey.gz",
       "SourceId": "SimpleLoginApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SimpleLoginApp",
-      "RelativePath": "css/dashboard#[.{fingerprint=8jq95cel0q}]?.css.gz",
+      "RelativePath": "css/dashboard#[.{fingerprint=2uhms3hvey}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "D:\\Latihan C#.Net\\SimpleLoginApp\\wwwroot\\css\\dashboard.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iu1jayaofl",
-      "Integrity": "5r04KJuX0HbMN2jpyarcC+OyLeNAWMMamooFX2OVl4Y=",
+      "Fingerprint": "73ukcmyfl7",
+      "Integrity": "U1ljujLICyBeI8J15yxtHsRPqwzG4GZDEf37vDIewoE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Latihan C#.Net\\SimpleLoginApp\\wwwroot\\css\\dashboard.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8jq95cel0q",
-      "Integrity": "lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0=",
+      "Fingerprint": "2uhms3hvey",
+      "Integrity": "ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
@@ -2854,13 +2854,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/dashboard.8jq95cel0q.css",
-      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-8jq95cel0q.gz",
+      "Route": "css/dashboard.2uhms3hvey.css",
+      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-2uhms3hvey.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.009708737864"
+          "Quality": "0.007751937984"
         }
       ],
       "ResponseHeaders": [
@@ -2870,15 +2870,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "102"
+          "Value": "128"
         },
         {
           "Name": "ETag",
-          "Value": "\"5r04KJuX0HbMN2jpyarcC+OyLeNAWMMamooFX2OVl4Y=\""
+          "Value": "\"U1ljujLICyBeI8J15yxtHsRPqwzG4GZDEf37vDIewoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 13:30:41 GMT"
+          "Value": "Fri, 24 Jan 2025 05:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2898,13 +2898,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0=\""
+          "Value": "W/\"ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8jq95cel0q"
+          "Value": "2uhms3hvey"
         },
         {
           "Name": "label",
@@ -2912,12 +2912,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0="
+          "Value": "sha256-ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA="
         }
       ]
     },
     {
-      "Route": "css/dashboard.8jq95cel0q.css",
+      "Route": "css/dashboard.2uhms3hvey.css",
       "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\wwwroot\\css\\dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2927,7 +2927,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "85"
+          "Value": "121"
         },
         {
           "Name": "Content-Type",
@@ -2935,11 +2935,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0=\""
+          "Value": "\"ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 13:30:41 GMT"
+          "Value": "Fri, 24 Jan 2025 05:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2949,7 +2949,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8jq95cel0q"
+          "Value": "2uhms3hvey"
         },
         {
           "Name": "label",
@@ -2957,13 +2957,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0="
+          "Value": "sha256-ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA="
         }
       ]
     },
     {
-      "Route": "css/dashboard.8jq95cel0q.css.gz",
-      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-8jq95cel0q.gz",
+      "Route": "css/dashboard.2uhms3hvey.css.gz",
+      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-2uhms3hvey.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2972,7 +2972,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "102"
+          "Value": "128"
         },
         {
           "Name": "Content-Type",
@@ -2980,11 +2980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5r04KJuX0HbMN2jpyarcC+OyLeNAWMMamooFX2OVl4Y=\""
+          "Value": "\"U1ljujLICyBeI8J15yxtHsRPqwzG4GZDEf37vDIewoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 13:30:41 GMT"
+          "Value": "Fri, 24 Jan 2025 05:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3002,7 +3002,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8jq95cel0q"
+          "Value": "2uhms3hvey"
         },
         {
           "Name": "label",
@@ -3010,18 +3010,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5r04KJuX0HbMN2jpyarcC+OyLeNAWMMamooFX2OVl4Y="
+          "Value": "sha256-U1ljujLICyBeI8J15yxtHsRPqwzG4GZDEf37vDIewoE="
         }
       ]
     },
     {
       "Route": "css/dashboard.css",
-      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-8jq95cel0q.gz",
+      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-2uhms3hvey.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.009708737864"
+          "Quality": "0.007751937984"
         }
       ],
       "ResponseHeaders": [
@@ -3031,15 +3031,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "102"
+          "Value": "128"
         },
         {
           "Name": "ETag",
-          "Value": "\"5r04KJuX0HbMN2jpyarcC+OyLeNAWMMamooFX2OVl4Y=\""
+          "Value": "\"U1ljujLICyBeI8J15yxtHsRPqwzG4GZDEf37vDIewoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 13:30:41 GMT"
+          "Value": "Fri, 24 Jan 2025 05:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3059,13 +3059,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0=\""
+          "Value": "W/\"ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0="
+          "Value": "sha256-ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA="
         }
       ]
     },
@@ -3080,7 +3080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "85"
+          "Value": "121"
         },
         {
           "Name": "Content-Type",
@@ -3088,11 +3088,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0=\""
+          "Value": "\"ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 13:30:41 GMT"
+          "Value": "Fri, 24 Jan 2025 05:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3102,13 +3102,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV+Cz3xHFF0="
+          "Value": "sha256-ylutuyOQu/Y5Ta7ZCN+qUXlIch8HQHUX0IDd8c133VA="
         }
       ]
     },
     {
       "Route": "css/dashboard.css.gz",
-      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-8jq95cel0q.gz",
+      "AssetFile": "D:\\Latihan C#.Net\\SimpleLoginApp\\obj\\Debug\\net9.0\\compressed\\okm203tgvg-2uhms3hvey.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3117,7 +3117,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "102"
+          "Value": "128"
         },
         {
           "Name": "Content-Type",
@@ -3125,11 +3125,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5r04KJuX0HbMN2jpyarcC+OyLeNAWMMamooFX2OVl4Y=\""
+          "Value": "\"U1ljujLICyBeI8J15yxtHsRPqwzG4GZDEf37vDIewoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 13:30:41 GMT"
+          "Value": "Fri, 24 Jan 2025 05:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3147,7 +3147,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5r04KJuX0HbMN2jpyarcC+OyLeNAWMMamooFX2OVl4Y="
+          "Value": "sha256-U1ljujLICyBeI8J15yxtHsRPqwzG4GZDEf37vDIewoE="
         }
       ]
     },

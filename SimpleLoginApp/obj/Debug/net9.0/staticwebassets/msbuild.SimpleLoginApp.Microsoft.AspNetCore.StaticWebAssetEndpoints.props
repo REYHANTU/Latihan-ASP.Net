@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/SimpleLoginApp/css/dashboard.8jq95cel0q.css">
+    <StaticWebAssetEndpoint Include="_content/SimpleLoginApp/css/dashboard.2uhms3hvey.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\dashboard.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8jq95cel0q"},{"Name":"integrity","Value":"sha256-lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV\u002BCz3xHFF0="},{"Name":"label","Value":"_content/SimpleLoginApp/css/dashboard.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"85"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV\u002BCz3xHFF0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 20 Jan 2025 13:30:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2uhms3hvey"},{"Name":"integrity","Value":"sha256-ylutuyOQu/Y5Ta7ZCN\u002BqUXlIch8HQHUX0IDd8c133VA="},{"Name":"label","Value":"_content/SimpleLoginApp/css/dashboard.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ylutuyOQu/Y5Ta7ZCN\u002BqUXlIch8HQHUX0IDd8c133VA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Jan 2025 05:58:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SimpleLoginApp/css/dashboard.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\dashboard.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV\u002BCz3xHFF0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"85"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lOPsqNbqD9Fgn8Nc9VhN4IGR33CHUiHURV\u002BCz3xHFF0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 20 Jan 2025 13:30:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ylutuyOQu/Y5Ta7ZCN\u002BqUXlIch8HQHUX0IDd8c133VA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ylutuyOQu/Y5Ta7ZCN\u002BqUXlIch8HQHUX0IDd8c133VA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Jan 2025 05:58:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SimpleLoginApp/css/login.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>

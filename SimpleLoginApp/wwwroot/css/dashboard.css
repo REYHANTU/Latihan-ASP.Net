@@ -1,3 +1,7 @@
 body {
     background-image: linear-gradient(to right, #ff7e5f 30%, #feb47b 70%);
 }
+
+p {
+    text-align: justify;
+}

@@ -96,5 +96,6 @@ D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\SimpleLoginApp.pdb
 D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\SimpleLoginApp.genruntimeconfig.cache
 D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\ref\SimpleLoginApp.dll
 D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\compressed\m6jf80qjl0-mcvhxumd0t.gz
-D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\compressed\okm203tgvg-8jq95cel0q.gz
 D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\compressed\55kul87hea-w4kbljv8pe.gz
+D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\SimpleLoginApp.sourcelink.json
+D:\Latihan C#.Net\SimpleLoginApp\obj\Debug\net9.0\compressed\okm203tgvg-2uhms3hvey.gz
